@@ -100,4 +100,5 @@ view: superstore {
     type: count
     drill_fields: [customer_name, product_name]
   }
+  # comment
 }
