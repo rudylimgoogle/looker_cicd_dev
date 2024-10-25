@@ -104,5 +104,4 @@ view: superstore {
     type: sum
     sql: ${sales} ;;
   }
-  # comment
 }
