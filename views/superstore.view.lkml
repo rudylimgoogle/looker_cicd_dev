@@ -9,6 +9,10 @@ view: superstore {
     type: string
     sql: ${TABLE}.City ;;
   }
+  dimension: v1_dim {
+    type: number
+    sql: 1 ;;
+  }
   dimension: country {
     type: string
     map_layer_name: countries
