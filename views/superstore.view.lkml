@@ -13,6 +13,10 @@ view: superstore {
     type: number
     sql: 1 ;;
   }
+  dimension: v2_dim {
+    type: number
+    sql: 2 ;;
+  }
   dimension: country {
     type: string
     map_layer_name: countries
