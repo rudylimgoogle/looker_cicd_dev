@@ -15,6 +15,7 @@ view: superstore {
   }
   dimension: v2_dim {
     type: number
+    label: "v2 dim"
     sql: 2 ;;
   }
   dimension: country {
